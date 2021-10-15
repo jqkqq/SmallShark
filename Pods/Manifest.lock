@@ -1,0 +1,60 @@
+PODS:
+  - Alamofire (5.4.4)
+  - Floaty (4.2.0)
+  - MarqueeLabel (4.3.0)
+  - NVActivityIndicatorView (5.1.1):
+    - NVActivityIndicatorView/Base (= 5.1.1)
+  - NVActivityIndicatorView/Base (5.1.1)
+  - SCLAlertView (0.8)
+  - SnapKit (5.0.1)
+  - SVProgressHUD (2.2.5)
+  - SwiftMessages (9.0.4):
+    - SwiftMessages/App (= 9.0.4)
+  - SwiftMessages/App (9.0.4)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Floaty (from `https://github.com/Omurok/Floaty.git`)
+  - MarqueeLabel
+  - NVActivityIndicatorView
+  - SCLAlertView
+  - SnapKit
+  - SVProgressHUD
+  - SwiftMessages
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - MarqueeLabel
+    - NVActivityIndicatorView
+    - SCLAlertView
+    - SnapKit
+    - SVProgressHUD
+    - SwiftMessages
+    - SwiftyJSON
+
+EXTERNAL SOURCES:
+  Floaty:
+    :git: https://github.com/Omurok/Floaty.git
+
+CHECKOUT OPTIONS:
+  Floaty:
+    :commit: c44b34e2db938cd9a7f969b2f38962ee7ee092cb
+    :git: https://github.com/Omurok/Floaty.git
+
+SPEC CHECKSUMS:
+  Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
+  Floaty: 7f2b3974999d4f7434264aaa5d6349776f12cbce
+  MarqueeLabel: 02f5ac8fd6877c94564556cb93fa86c70c08baeb
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+  SCLAlertView: 6a77bb2edfc65e04dbe57725546cb4107a506b85
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftMessages: 082ed63613a49fa8e749cd6000bb0a8b9bbc736f
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: 5b28c13f920bef751597be8c821c67139c380f2b
+
+COCOAPODS: 1.10.0

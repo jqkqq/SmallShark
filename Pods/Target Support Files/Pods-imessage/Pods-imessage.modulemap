@@ -1,0 +1,6 @@
+framework module Pods_imessage {
+  umbrella header "Pods-imessage-umbrella.h"
+
+  export *
+  module * { export * }
+}

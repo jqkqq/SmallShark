@@ -1,0 +1,6 @@
+framework module Pods_SmallShark_SmallSharkUITests {
+  umbrella header "Pods-SmallShark-SmallSharkUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
